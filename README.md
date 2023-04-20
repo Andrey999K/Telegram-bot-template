@@ -4,13 +4,17 @@
 
 ### Установка
 
-`install -r requirements.txt`
+```
+install -r requirements.txt
+```
 
 ***
 
 ### Запуск  
 
-`python bot.py`  
+```
+python bot.py
+```  
 
 ### Файлы
 
