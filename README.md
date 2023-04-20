@@ -2,8 +2,8 @@
 
 ***
 
-### Установка
-
+### Установка  
+Для установки требуется [https://www.python.org/ftp/python/3.11.3/python-3.11.3-amd64.exe](python 3.11)  
 ```
 pip install -r requirements.txt
 ```
